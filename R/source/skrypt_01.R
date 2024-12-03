@@ -20,5 +20,3 @@ dane_dysk_01$Value <- readr::parse_number(dane_dysk_01$Value)
 
 # Sprawdzenie wiersa 748
 dane_internet[748, "Value"]
-
-
